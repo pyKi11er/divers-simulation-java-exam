@@ -29,16 +29,16 @@ Unit tests were written using JUnit 5 and are located alongside the main classes
 ## 🗂 Project Structure
 
 /src
-├── /environment
-│ ├── /collectables
-│ ├── /marker
-│ └── DivingOperation.java
-├── /person
-│ ├── /divers
-│ ├── /utils
-│ └── Dumper.java
-├── JUnit test files
-README.md (you are here)
+--/environment
+----/collectables
+----/marker
+----...
+--/person
+----/divers
+----/utils
+----...
+--JUnit test files
+README.md(you are here)
 
 
 ## ❗ Notes
